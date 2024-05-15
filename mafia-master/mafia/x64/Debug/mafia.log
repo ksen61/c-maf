@@ -1,0 +1,7 @@
+﻿  mafia.cpp
+\\mac\Home\Downloads\mafia-master\mafia\mafia.cpp(69,124): warning C4244: аргумент: преобразование "_Rep" в "unsigned int", возможна потеря данных
+\\mac\Home\Downloads\mafia-master\mafia\mafia.cpp(69,124): warning C4244:         with
+\\mac\Home\Downloads\mafia-master\mafia\mafia.cpp(69,124): warning C4244:         [
+\\mac\Home\Downloads\mafia-master\mafia\mafia.cpp(69,124): warning C4244:             _Rep=__int64
+\\mac\Home\Downloads\mafia-master\mafia\mafia.cpp(69,124): warning C4244:         ]
+  mafia.vcxproj -> \\Mac\Home\Downloads\mafia-master\x64\Debug\mafia.exe
